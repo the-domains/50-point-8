@@ -1,0 +1,14 @@
+layout_spectrum: 0.05240264581516385
+typography_spectrum: 0.8624716498889029
+color:
+  brandStrength: 0.11909006489440799
+  lightness: 0.24228650145232677
+  saturation: 0.3240836176555604
+  rhythmicContrast: 0.25467803003266454
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: '50 Point 8 '
